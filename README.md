@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir ÖNCEL</h1>
 <h3 align="center">Java Developer</h3>
 
-- 🔭 I’m currently working on **HR Module**
+- 🔭 I’m currently working on ERP System
 
 - 🌱 I’m currently learning **Java,Spring Boot**
 
